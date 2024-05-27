@@ -18,7 +18,7 @@ Desafio do Programa ONE - Oracle Next Education, em parceria com a Alura, no qua
 
 ### **2. Como usar**
 
-Para acessar, clique <a href="" target="_blank">aqui</a>.
+Para acessar, clique <a href="https://danieldmonteiro.github.io/challenge-portfolio-alura/" target="_blank">aqui</a>.
 
 #
 
